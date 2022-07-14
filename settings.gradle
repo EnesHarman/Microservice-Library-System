@@ -1,0 +1,5 @@
+rootProject.name = 'Libary-System'
+include 'panel'
+include 'book'
+include 'core'
+
